@@ -12,7 +12,7 @@ Deliverable: Segmented regions of each object and visual output showing segmente
 I will extract each segmented object from the image and store them separately with unique IDs.
 Deliverable: Saved object images with metadata.
 
-##Object Identification
+## Object Identification
 
 I will identify and describe each object using YOLO.
 Deliverable: Descriptions for each object image.
